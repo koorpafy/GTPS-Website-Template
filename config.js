@@ -7,14 +7,14 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
+    server_name: "GTPS30",
     server_description: "Your server Description",
     owner: [
-        "Owner Server#0000",
-        "Owner Server#0000"
+        "miko_komik#0000",
+        " "
     ],
-    discord_invite_link: "Your permanent discord invite link",
-    ip_address: "Your server ip address",
-    host_for_android: "Your host link for android device"
+    discord_invite_link: "https://discord.com/invite/2tZnnxqr7u",
+    ip_address: "CURRENTLY NOT AVAILABLE",
+    host_for_android: "CURRENTLY NOT AVAILABLE"
 }
 
